@@ -1,0 +1,36 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.tarjeta{
+    width: 600px;
+}
+
+.encabezado {
+  background-color: #17a2b8;
+  height: 100px;
+  position: relative;
+}
+
+.usuario {
+  left: 50px;
+  width: 80px;
+  position: absolute;
+  top: 60px;
+  border-radius: 50%;
+  border-color: darkgrey;
+  padding: 2px;
+  border-style: solid;
+}
+
+.cuerpo{
+    padding:50px;
+    border: 2px solid rgb(224, 221, 221);
+}
+
+.icono{
+    width: 12px;
+    margin-right: 5px;
+}
